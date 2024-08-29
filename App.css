@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'bnazanin';
+  src: local('bnazanin'),
+       url('./fonts/BNazanin.ttf') format('ttf'),
+       url('./fonts/BNazanin.ttf') format('ttf');
+}
+
+/* body,label,button,table,th,thead,tr{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'bnazanin';
+} */
